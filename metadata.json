@@ -1,0 +1,6 @@
+{
+  "title": "ETL con Spark",
+  "description": "Pipeline escalable con Spark y Glue para normalizar grandes volúmenes de datos.",
+  "tech": ["Spark", "AWS Glue", "Python"],
+  "github": "https://github.com/tu-usuario/etl-pipeline-spark"
+}
